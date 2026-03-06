@@ -1,0 +1,5 @@
+Fiction,The Great Gatsby,F. Scott Fitzgerald,Printed,162
+Science,Invitation To Computer Science,G. Michael Schneider,EBook,5.1
+Mystery,And Then There Were None,Agatha Christie,Printed,300
+NonFiction,The Art Of War Sun Tzu,Ralph D. Sawyer,Printed,384
+Biography,Alexander Hamilton,Mark Steinberg,EBook,2.5
