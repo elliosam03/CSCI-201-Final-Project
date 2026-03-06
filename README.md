@@ -1,1 +1,1 @@
-This program presents the user with a Library Menu from where they can choose between 8 differnet routes to take. In order, the options are to View all books, View all patrons, Search for books by genre, Checkout a book, Return a book, Add a book, Add a patron, or Exit the program.
+This program presents the user with a Library Menu from where they can choose between 8 different routes to take. In order, the options are to View all books, View all patrons, Search for books by genre, Checkout a book, Return a book, Add a book, Add a patron, or Exit the program.
